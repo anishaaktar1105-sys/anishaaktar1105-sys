@@ -4,8 +4,10 @@
 Email Me 👉 ✉️ **anishaaktar1105@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 Currently working on: Building real-world Python & AI-based projects
+<br>
 🌱 Currently learning: Advanced Python, Machine Learning & system design
-👯 Looking to collaborate on: Innovative AI/ML & Web projects
+<br>
+ Looking to collaborate on: Innovative AI/ML & Web projects
 - 📫 **How to reach me:* anishaaktar1105@gmail.com*
 
 
