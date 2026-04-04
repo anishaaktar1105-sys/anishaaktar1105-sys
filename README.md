@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **anishaaktar1105@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:* Frontend development with ai specialisation*
-- 🌱 **I’m currently learning:* B.Tech CSE AIML in Brainware University*
-- 👯 **I’m looking to collaborate on:* Web development*
+🔭 Currently working on: Building real-world Python & AI-based projects
+🌱 Currently learning: Advanced Python, Machine Learning & system design
+👯 Looking to collaborate on: Innovative AI/ML & Web projects
 - 📫 **How to reach me:* anishaaktar1105@gmail.com*
 
 
